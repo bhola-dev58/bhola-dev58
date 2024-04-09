@@ -1,11 +1,13 @@
+##Welcome to my GitHub profile!
+
+- 👋 Hi, I’m @Bhola Yadav
 
 # About Me
-- 👋 Hi, I’m @Bhola Yadav
+
 - 👀 I’m interested in Software Engineering, Java Programming, Web Designing
 - 🌱 I’m currently learning Bachelor In Computer Science Engineering , in CMRIT Institute Of Technology Bengaluru Karnataka
 - 💞️ I’m looking to collaborate on Software testing, App Development
 
-Welcome to my GitHub profile!
 
 ## About
 I am constantly exploring new technologies and tools to expand my knowledge.
@@ -25,9 +27,6 @@ I am constantly exploring new technologies and tools to expand my knowledge.
   10. .net Framework
       
 - **Technologies:**
-    Spring Boot,
-    Django,
-    Node.js,
     Python,
     Java
   
