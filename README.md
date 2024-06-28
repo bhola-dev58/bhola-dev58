@@ -46,10 +46,11 @@ I am constantly exploring new technologies and tools to expand my knowledge.
 
 
 
+<hr>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhya23cse&show_icons=true&locale=en" alt="bhya23cse" ></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhya23cse&show_icons=true&locale=en&layout=compact" alt="bhya23cse" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhya23cse&show_icons=true&locale=en" alt="bhya23cse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhya23cse&" alt="bhya23cse" /></p>
 
