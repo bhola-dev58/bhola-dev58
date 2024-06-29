@@ -55,7 +55,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhya23cse&show_icons=true&locale=en&layout=compact" alt="bhya23cse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhya23cse&" alt="bhya23cse" /></p>
+<hr><br>
 
+
+
+
+
+
+[![Bhola's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhya23cse&theme=tokyo-night)](https://github.com/Bhya23cse/github-readme-activity-graph)
 
 
 ## Let's Connect
