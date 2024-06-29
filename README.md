@@ -6,7 +6,7 @@
 # About Me
 <br>
 - 👀 I’m interested in Software Engineering, Java Programming, Web Designing<br>
-- 🌱 I’m currently learning Bachelor In Computer Science Engineering , in CMRIT Institute Of Technology Bengaluru Karnataka<br>
+- 🌱 I’m currently learning Bachelor In Computer Science and Engineering at CMRIT Institute Of Technology Bengaluru Karnataka<br>
 - 💞️ I’m looking to collaborate on Software testing, App Development<br>
 
 
