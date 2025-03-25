@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhola</h1>
 <h3 align="center">A passionate Software Engineering</h3>
   
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhya23cse&label=Profile%20views&color=0e75b6&style=flat" alt="Bhya23cse" /> </p>
 # About Me
 <br>
 - 👀 I’m interested in Software Engineering, Java Programming, Web Designing<br>
