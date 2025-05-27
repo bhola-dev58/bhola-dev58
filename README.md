@@ -13,10 +13,23 @@
 
 <hr>
 
+
+
+<!-- GitHub Stats & Streak -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhya23cse&show_icons=true&locale=en" alt="Bhola's GitHub Stats1" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhola-dev58" alt="Bhola's GitHub Streak2" height="180"/>
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhya23cse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<!--
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bhya23cse&show_icons=true&locale=en" alt="bhya23cse" >
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhya23cse&" alt="bhya23cse" ></p><br><br><br><br><br><br><br><br><br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhya23cse&show_icons=true&locale=en&layout=compact" alt="bhya23cse" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhya23cse&show_icons=true&locale=en&layout=compact" alt="bhya23cse" /></p>-->
 
 <hr>
 
