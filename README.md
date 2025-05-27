@@ -8,24 +8,19 @@
 - 👀 I’m interested in Software Engineering, Java Programming, Web Designing<br>
 - 🌱 I’m currently learning Bachelor In Computer Science and Engineering at CMRIT Institute Of Technology Bengaluru Karnataka<br>
 - 💞️ I’m looking to collaborate on Software testing, App Development<br>
+<!--<img align="right"style="height:280px; width:280px;" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">-->
 
-
-
-<br>
-<hr>
-<img align="right"style="height:280px; width:280px;" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
-
-
-<br>
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhya23cse&show_icons=true&locale=en" alt="bhya23cse" ></p>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=bhya23cse&show_icons=true&locale=en" alt="bhya23cse" >
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhya23cse&" alt="bhya23cse" ></p><br><br><br><br><br><br><br><br><br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhya23cse&show_icons=true&locale=en&layout=compact" alt="bhya23cse" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhya23cse&show_icons=true&locale=en&layout=compact" alt="bhya23cse" /></p>
+<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhya23cse&" alt="bhya23cse" /></p>
-<hr><br>
+<br>
 
 
 
