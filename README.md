@@ -1,4 +1,4 @@
-<img src="https://github.com/Bhya23cse/Bhya23cse/blob/main/New_Banner_04.png">
+<!-- <img src="https://github.com/Bhya23cse/Bhya23cse/blob/main/New_Banner_04.png">  -->
 <h1 align="center">Hi 👋, I'm Bhola</h1>
 <h3 align="center">A passionate Software Engineering</h3>
   
@@ -62,7 +62,7 @@
 
 
 
-[![Bhola's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhya23cse&theme=tokyo-night)](https://github.com/Bhya23cse/github-readme-activity-graph)
+[![Bhola's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhola-dev58&theme=tokyo-night)](https://github.com/bhola-dev58/github-readme-activity-graph)
 
 
 ## Let's Connect
