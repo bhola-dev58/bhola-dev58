@@ -24,12 +24,15 @@
 <!-- Most Used Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhola-dev58&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  
 </p>
 <!--
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bhya23cse&show_icons=true&locale=en" alt="bhya23cse" >
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhya23cse&" alt="bhya23cse" ></p><br><br><br><br><br><br><br><br><br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhya23cse&show_icons=true&locale=en&layout=compact" alt="bhya23cse" /></p>-->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhya23cse&show_icons=true&locale=en&layout=compact" alt="bhya23cse" />
+
+</p>-->
 
 <hr>
 
@@ -38,10 +41,7 @@
 
 
 
-
-
-[![Bhola's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhola-dev58&theme=tokyo-night)](https://github.com/bhola-dev58/github-readme-activity-graph)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhola-dev58&theme=github)
 
 ## Let's Connect
 
