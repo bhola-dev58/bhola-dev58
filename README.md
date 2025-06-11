@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 <b><p> <img src="https://komarev.com/ghpvc/?username=Bhya23cse&label=Profile%20views&color=061ae1" alt="Bhya23cse" /> </p></b>
 <!-- <img src="https://github.com/Bhya23cse/Bhya23cse/blob/main/New_Banner_04.png">  -->
-<h1 align="center">Hi 👋, I'm Bhola</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/bhya23cse/">Bhola Yadav</a></h1>
 <h3 align="center">A passionate Software Engineering</h3>
   
 
@@ -41,7 +41,7 @@
 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhola-dev58&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhola-dev58&theme=github&height=300&width=600)
 
 ## Let's Connect
 
