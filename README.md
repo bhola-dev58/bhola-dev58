@@ -46,3 +46,5 @@
 ## Let's Connect
 
 I'm always open to collaboration and networking. If you have any questions, suggestions, or just want to chat, feel free to reach out!
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
