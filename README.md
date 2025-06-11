@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+<b><p> <img src="https://komarev.com/ghpvc/?username=Bhya23cse&label=Profile%20views&color=061ae1" alt="Bhya23cse" /> </p></b>
 <!-- <img src="https://github.com/Bhya23cse/Bhya23cse/blob/main/New_Banner_04.png">  -->
 <h1 align="center">Hi 👋, I'm Bhola</h1>
 <h3 align="center">A passionate Software Engineering</h3>
   
-<b><p align="right"> <img src="https://komarev.com/ghpvc/?username=Bhya23cse&label=Profile%20views&color=061ae1" alt="Bhya23cse" /> </p></b>
+
 # About Me
 <br>
 - 👀 I’m interested in Software Engineering <br>
