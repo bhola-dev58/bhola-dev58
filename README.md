@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+
 <!-- <img src="https://github.com/Bhya23cse/Bhya23cse/blob/main/New_Banner_04.png">  -->
 <h1 align="center">Hi 👋, I'm Bhola</h1>
 <h3 align="center">A passionate Software Engineering</h3>
@@ -14,27 +16,25 @@
 <hr>
 
 
+ <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />GitHub Stats </h1>
+ 
 
-<!-- GitHub Stats & Streak -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhola-dev58&show_icons=true&locale=en" alt="Bhola's GitHub Stats1" height="130"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhola-dev58" alt="Bhola's GitHub Streak2" height="120"/>
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhola-dev58&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   
-</p>
-<!--
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bhya23cse&show_icons=true&locale=en" alt="bhya23cse" >
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhya23cse&" alt="bhya23cse" ></p><br><br><br><br><br><br><br><br><br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhya23cse&show_icons=true&locale=en&layout=compact" alt="bhya23cse" />
 
-</p>-->
+<div align="center">
 
-<hr>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhola-dev58&theme=highcontrast">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhola-dev58&theme=highcontrast">
+<img height="168em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bhola-dev58&hide=HTML,css,scss,cmake&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" /> 
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhola-dev58&theme=highcontrast">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhola-dev58&hide=HTML,css,scss,cmake&layout=donut&theme=highcontrast&hide_border=true" />
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=bhola-dev58&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhola-dev58&theme=highcontrast&hide_border=true" />
+
+</div><br>
+
+<hr />
+
 
 <br>
 
