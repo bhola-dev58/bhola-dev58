@@ -3,8 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/bhya23cse/">Bhola Yadav</a></h1>
   
 
-# About Me
-<br>
+
 - 👀 I’m interested in Software Engineering <br>
 - 🌱 I’m currently learning Bachelor In Computer Science and Engineering at CMRIT Institute Of Technology Bengaluru Karnataka<br>
 - 💞️ I’m looking to collaborate on Software testing, App Development<br>
