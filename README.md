@@ -7,7 +7,7 @@
 - 👀 I’m interested in Software Engineering <br>
 - 🌱 I’m currently learning Bachelor In Computer Science and Engineering at CMRIT Institute Of Technology Bengaluru Karnataka<br>
 - 💞️ I’m looking to collaborate on Software testing, App Development<br>
-<!--<img align="right"style="height:280px; width:280px;" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">-->
+
 
 
 <hr>
@@ -39,7 +39,10 @@
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhola-dev58&theme=github&height=300&width=600)
+<hr>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhola-dev58" alt="bhola-dev58" /></a> </p>
+<hr>
 ## Let's Connect
 
 I'm always open to collaboration and networking. If you have any questions, suggestions, or just want to chat, feel free to reach out!
