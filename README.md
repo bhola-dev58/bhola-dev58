@@ -4,6 +4,7 @@
   
 
 
+- 👀 I’m currently Learning Flutter<br>
 - 👀 I’m interested in Software Engineering <br>
 - 🌱 I’m currently learning Bachelor In Computer Science and Engineering at CMRIT Institute Of Technology Bengaluru Karnataka<br>
 - 💞️ I’m looking to collaborate on Software testing, App Development<br>
