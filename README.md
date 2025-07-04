@@ -1,7 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 <b><p> <img height=30px src="https://komarev.com/ghpvc/?username=Bhya23cse&label=Profile%20views&color=061ae8" alt="Bhya23cse" /> </p></b>
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/bhya23cse/">Bhola Yadav</a></h1>
-  
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hi+there!!!..+I'm+Bhola+Yadav">
+  </a>
+</h1>
 
 
 - 👀 I’m currently Learning Flutter<br>
