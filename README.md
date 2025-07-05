@@ -2,9 +2,10 @@
 <b><p> <img height=30px src="https://komarev.com/ghpvc/?username=Bhya23cse&label=Profile%20views&color=061ae8" alt="Bhya23cse" /> </p></b>
 
 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hi+there!!!..+I'm+Bhola+Yadav">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=20&duration=3000&pause=2000&lines=Hi+there!!!..+I'm+Bhola+Yadav+">
   </a>
 </h1>
 
