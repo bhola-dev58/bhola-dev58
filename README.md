@@ -55,3 +55,20 @@
 I'm always open to collaboration and networking. If you have any questions, suggestions, or just want to chat, feel free to reach out!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+
+<!--For Web Development Enthusiasts
+freeCodeCamp
+Mozilla
+WordPress
+
+For Python Aficionados
+NumPy
+SciPy
+Matplotlib
+For Mobile App Developers
+Oppia
+AnkiDroid
+
+For Those Interested in Systems and Infrastructure
+Linux Kernel
+Kubernetes
