@@ -61,14 +61,10 @@
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=bhola-dev58&show_icons=true&hide_border=false&theme=highcontrast&count_private=true" />
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhola-dev58&theme=highcontrast&hide_border=false" />
 
-</div><br>
-<hr />
+<br>
 
-### 🔝 Top Contributed Repo
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=bhola-dev58&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 <hr />
 
@@ -78,7 +74,7 @@
 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhola-dev58&theme=github&height=300&width=600)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhola-dev58&theme=github&height=300&width=800)
 <hr>
 
 ## Let's Connect
