@@ -59,9 +59,6 @@
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhola-dev58&theme=highcontrast&hide_border=false">
 
 
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=bhola-dev58&show_icons=true&hide_border=false&theme=highcontrast&count_private=true" />
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhola-dev58&theme=highcontrast&hide_border=false" />
-
 <br>
 
 </div>
