@@ -58,6 +58,9 @@
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhola-dev58&hide=HTML,css,scss,cmake&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=false&exclude_repo=github-readme-stats" alt="top langs">
 
 
+![](https://github-readme-stats.vercel.app/api?username=bhola-dev58&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
 <br>
 
 </div>
